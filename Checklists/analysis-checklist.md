@@ -1,8 +1,8 @@
 Checklist for Data Analysis Scripts
------------------------------------
+===================================
 
 Documentation and Organization
-==============================
+------------------------------
 
 - [ ] Is there a readme? 
 - [ ] Are the scripts and data dependencies organized sensibly in a folder? 
@@ -11,7 +11,7 @@ Documentation and Organization
 - [ ] Is the intent of the analysis clear from the documentation? 
 
 Code Structure
-==============
+--------------
 
 - [ ] Is the code properly indented, using a reasonable line length, and is an editor with syntax highlighting used?
 - [ ] Does the code follow a consistent style and formatting?
@@ -22,7 +22,7 @@ Code Structure
 - [ ] Can the code easily handle changes/updates to the inputs (e.g. data updates)? 
 	
 Data Reading and Cleaning
-=========================
+-------------------------
 
 - [ ] Is there any data manipulation done outside of the script, eg in Excel? 
 - [ ] Are missing values identified and handled correctly? 
@@ -30,7 +30,7 @@ Data Reading and Cleaning
 - [ ] Are transformations to variables done correctly? 
 
 Analysis Methods
-================
+----------------
 
 - [ ] Are methods reinvented that are implemented in an existing (high quality) package?
 - [ ] Are the algorithm settings/defaults known and correct? 
@@ -41,7 +41,7 @@ Analysis Methods
 - [ ] Does the analysis successfully address the needs of the project? 
 	
 Output
-=======
+------
 
 - [ ] Do the results rely on any external tools for output? 
 - [ ] Do downstream modifications need to be made to the output? 

@@ -5,7 +5,7 @@ This email is to solicit interest for a working group for collaboration and revi
 Motivation
 ----------
 
-As statisticians, we generate lots of software, in the form of data cleaning scripts, analysis scripts, R packages, and implementations of new methods. However, most of us have not received any formal training in software development and most of what we learned about R was "on the job". Furthermore, despite the fact that the results of our analyses and resulting papers rely on it, much of this software is never seen by the broader scientific community. 
+As statisticians, we generate lots of software, in the form of data cleaning scripts, analysis scripts, R packages, and implementations of new methods. However, most of us have not received any formal training in software development and most of what we learned about R was "on the job". Furthermore, despite the fact that the results of our analyses and resulting papers rely on it, much of this software is never seen by the broader scientific community. There is also no formal process for code checking, as there is in programming, even though the results of our code get published. 
 
 Our domain-specific knowledge puts us in the unique position to review and understand each others' code. We can learn from each other to improve the quality and foster collaboration on the software aspects of our research. 
 
@@ -23,7 +23,7 @@ The review itself will be structured and somewhat formal. This is to ensure that
 What I need help with
 ---------------------
 
-- Developing the initial guidelines and checklists for the review process. I've got a start going [here](http://github.com/sachsmc/stats-code-review). 
+- Developing the initial guidelines and checklists for the review process. I've started [here](http://github.com/sachsmc/stats-code-review). 
 - Developing education materials and discussions on best-practices and useful tools (e.g., git, Rstudio, devtools).
 - Volunteers with code that they would like others to review. 
 - Volunteers to serve on small review groups. 
@@ -33,4 +33,10 @@ Further Reading and Resources
 
 - [Mozilla Science Lab Guide](https://mozillascience.github.io/codeReview/intro.html)
  - Attachments
+
+Thanks for reading,
+
+Mike
+
+
 

@@ -2,7 +2,7 @@
 Motivation
 ----------
 
-As statisticians, we generate lots of software, in the form of data cleaning scripts, analysis scripts, R packages, and implementations of new methods. However, most of us have not received any formal training in software development and most of what we learned about R was "on the job". Furthermore, despite the fact that the results of our analyses and resulting papers rely on it, much of this software is never seen by the broader scientific community. 
+As statisticians, we generate lots of software, in the form of data cleaning scripts, analysis scripts, R packages, and implementations of new methods. However, most of us have not received any formal training in software development and most of what we learned about R was "on the job". Furthermore, despite the fact that the results of our analyses and resulting papers rely on it, much of this software is never seen by the broader scientific community. There is also no formal process for code checking, as there is in programming, even though the results of our code get published. 
 
 Our domain-specific knowledge puts us in the unique position to review and understand each others' code. We can learn from each other to improve the quality and foster collaboration on the software aspects of our research. 
 
