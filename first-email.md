@@ -14,23 +14,23 @@ What I plan to do
 
 Assemble small groups (3-4 reviewers) to sit down and review a member's code for a specific project. The goal of the review will be pre-specified and targeted. For example: 
 
-	- Ensure the accuracy and reproducibility of an data analysis script
-	- Verify that a new method is implemented correctly
-	- Optimize a piece of code that is running slowly 
+- Ensure the accuracy and reproducibility of an data analysis script
+- Verify that a new method is implemented correctly
+- Optimize a piece of code that is running slowly 
 	
 The review itself will be structured and somewhat formal. This is to ensure that the reviews are useful and efficient. There are some guidelines out there for general code review, but developing the structure and guidelines for statistical code review will be an iterative process. 
 
 What I need help with
 ---------------------
 
-	- Developing the initial guidelines and checklists for the review process. I've got a start going [here](http://github.com/sachsmc/stats-code-review). 
-	- Developing education materials and discussions on best-practices and useful tools (e.g., git, Rstudio, devtools).
-	- Volunteers with code that they would like others to review. 
-	- Volunteers to serve on small review groups. 
+- Developing the initial guidelines and checklists for the review process. I've got a start going [here](http://github.com/sachsmc/stats-code-review). 
+- Developing education materials and discussions on best-practices and useful tools (e.g., git, Rstudio, devtools).
+- Volunteers with code that they would like others to review. 
+- Volunteers to serve on small review groups. 
 
 Further Reading and Resources
 -----------------------------
 
-	- [Mozilla Science Lab Guide](https://mozillascience.github.io/codeReview/intro.html)
- 	- Attachments
+- [Mozilla Science Lab Guide](https://mozillascience.github.io/codeReview/intro.html)
+ - Attachments
 
