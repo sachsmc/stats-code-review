@@ -28,7 +28,6 @@ What I need help with
 Links to checklists
 -----------------------------
 
-
 - [Data Analysis Checklist](http://github.com/sachsmc/stats-code-review/blob/master/Checklists/analysis-checklist.md)
 - [R Optimization Checklist](http://github.com/sachsmc/stats-code-review/blob/master/Checklists/r-optimize-checklist.md)
 

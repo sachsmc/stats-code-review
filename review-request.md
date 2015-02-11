@@ -38,6 +38,9 @@ How will you share the code and dependencies with reviewers?
 
 **E.g. Link to github repository, zip file, R source package**
 
+Please indicate the filenames and line numbers of the code to be reviewed
+-----------------------
+
 Please list some dates and times that you are available for a 60 minute review meeting
 -----------------------
 
