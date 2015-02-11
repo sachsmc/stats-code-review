@@ -25,9 +25,10 @@ What I need help with
 - Volunteers with code that they would like others to review. 
 - Volunteers to serve on small review groups. 
 
-Further Reading and Resources
+Links to checklists
 -----------------------------
 
-- [Mozilla Science Lab Guide](https://mozillascience.github.io/codeReview/intro.html)
- - [Checklists](http://github.com/sachsmc/stats-code-review/blob/master/Checklists/analysis-checklist.md)
+
+- [Data Analysis Checklist](http://github.com/sachsmc/stats-code-review/blob/master/Checklists/analysis-checklist.md)
+- [R Optimization Checklist](http://github.com/sachsmc/stats-code-review/blob/master/Checklists/r-optimize-checklist.md)
 
