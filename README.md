@@ -31,3 +31,9 @@ Links to checklists
 - [Data Analysis Checklist](http://github.com/sachsmc/stats-code-review/blob/master/Checklists/analysis-checklist.md)
 - [R Optimization Checklist](http://github.com/sachsmc/stats-code-review/blob/master/Checklists/r-optimize-checklist.md)
 
+Other Resources
+
+- [Code Review Guide by Mozilla Science](https://mozillascience.github.io/codeReview/intro.html)
+- [Code Review for and by Scientists, Petre and Wilson](http://arxiv.org/pdf/1407.5648v2.pdf)
+- [Smartbear 11 best practices for code review](http://smartbear.com/smartbear/media/pdfs/wp-cc-11-best-practices-of-peer-code-review.pdf)
+- [Troubling Trends in Scientific Software Use, Joppa et al.](http://www.sciencemag.org/content/340/6134/814.full)
